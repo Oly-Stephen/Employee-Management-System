@@ -8,6 +8,7 @@ Tools and technologies used:
 - Spring MVC
 - Spring Data JPA ( Hibernate)
 - MySQL
+- HTML5
 - Thymeleaf
 - Bootstrap 5
 - IntelliJ IDEA
